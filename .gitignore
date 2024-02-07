@@ -1,0 +1,8 @@
+env/
+
+EmailBackend/config.py
+ */.idea
+
+EmailBackend/__pycache__/
+email_app/__pycache__/
+
